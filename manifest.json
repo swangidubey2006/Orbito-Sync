@@ -1,0 +1,9 @@
+{
+  "name":"Orbito — Your day, in sync.",
+  "short_name":"Orbito",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#fff2e5",
+  "theme_color":"#ff6426",
+  "icons":[{"src":"assets/orbito-logo.png","sizes":"1254x1254","type":"image/png"}]
+}
